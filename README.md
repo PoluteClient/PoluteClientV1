@@ -14,9 +14,6 @@
 - After Running the Installer,Run your Fabric 1.19.4 Minecraft
 - Enjoy !
 
-  ============================
-- why Installer? - Because the ui needs some libs and other things,So with the installer you dont have to waste your time with fixing issue.
-
 ## Requirements to use client
 - [FabricApi 1.19.4](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)
 - [Java 17+](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
@@ -39,3 +36,6 @@ If you use **ANY** code from the source:
 - You must disclose the source code of your modified work and the source code you took from this project. This means you are not allowed to use code from this project (even partially) in a closed-source and/or obfuscated application.
 - You must state clearly and obviously to all end users that you are using code from this project.
 - Your application must also be licensed under the same license.
+
+## FAQ
+- why Installer? - Because the ui needs some libs and other things,So with the installer you dont have to waste your time with fixing issue.
