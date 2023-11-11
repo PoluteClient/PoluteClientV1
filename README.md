@@ -9,6 +9,13 @@
 - Default ClickGui keybind - **```H```**
 - Default prefix  - **```@```**
 
+## Installation
+- Just use Installer to avoid issues
+- After Running the Installer,Run your Fabric 1.19.4 Minecraft
+- Enjoy !
+  ============================
+- why Installer? - Because the ui needs some libs and other things,So with the installer you dont have to waste your time with fixing issue.
+
 ## Requirements to use client
 - [FabricApi 1.19.4](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)
 - [Java 17+](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
