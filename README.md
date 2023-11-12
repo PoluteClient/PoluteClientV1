@@ -17,7 +17,7 @@
 
 ## Installation
 - Get the ```LATEST``` version from ```Releases```
-- Run The installer,after you get ```Successful``` Message then Run your Fabric 1.19.4 Minecraft
+- Run The installer,after you get ```Successful``` message then run your Fabric 1.19.4 Minecraft
 
 ## Requirements to use client
 - [FabricApi 1.19.4](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)
