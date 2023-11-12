@@ -5,7 +5,7 @@
 
 
 ## Information About the Client
-- Open-Source Client with cool Bypasses
+- Open-source client with cool ```Bypasses```
 - Minecraft version: ```fabric``` 1.19.4
 - Default ClickGui keybind - **```H```**
 - Default prefix  - **```@```**
