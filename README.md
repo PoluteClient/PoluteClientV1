@@ -9,10 +9,15 @@
 - Default ClickGui keybind - **```H```**
 - Default prefix  - **```@```**
 
+## Supported Launchers
+- Minecraft launcher
+- TLauncher
+- MultiMC
+- TL Legacy
+
 ## Installation
 - Get the ```LATEST``` version from ```Releases```
-- After Running the Installer,Run your Fabric 1.19.4 Minecraft
-- Enjoy !
+- Run The installer,after you get ```Successful``` Message then Run your Fabric 1.19.4 Minecraft
 
 ## Requirements to use client
 - [FabricApi 1.19.4](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)
