@@ -8,6 +8,7 @@
 - Minecraft version: ```fabric``` 1.19.4
 - Default ClickGui keybind - **```H```**
 - Default prefix  - **```@```**
+- Customized PoluteLauncher !
 
 ## Supported Launchers
 - Minecraft launcher
@@ -17,7 +18,9 @@
 
 ## Installation
 - Get the ```LATEST``` version from ```Releases```
-- Run The installer,after you get ```Successful``` message then run your Fabric 1.19.4 Minecraft
+- Run the PoluteLauncher;
+- After you get ```Successful``` message then select your 1.19.4 Minecraft from PoluteLauncher's versions section and Start the game
+- Dont forget to get Fabric API 1.19.4, Java 17, and ```Recommended Mods```
 
 ## Requirements to use client
 - [FabricApi 1.19.4](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)
