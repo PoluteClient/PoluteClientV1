@@ -10,7 +10,7 @@
 - Default prefix  - **```@```**
 
 ## Installation
-- Just use Installer to avoid issues
+- Get the ```LATEST``` version from ```Releases```
 - After Running the Installer,Run your Fabric 1.19.4 Minecraft
 - Enjoy !
 
