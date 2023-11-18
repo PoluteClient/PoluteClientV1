@@ -19,8 +19,7 @@
 
 ## Installation
 - Get the ```LATEST``` version from ```Releases```
-- Run the PoluteLauncher;
-- After you get ```Successful``` message then select your 1.19.4 Minecraft from PoluteLauncher's versions section and Start the game
+- Automatic,Easy Installation.
 - Dont forget to get Fabric API 1.19.4, Java 17, and ```Recommended Mods```
 
 ## Requirements to use client
